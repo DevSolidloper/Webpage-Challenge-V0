@@ -1,3 +1,4 @@
+npm install @tailwindcss/postcss --save-dev
 {
   "name": "ml-dashboard-v0",
   "private": true,
